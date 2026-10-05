@@ -1,4 +1,4 @@
-import math
+import math 
 def rotation_layer(X, angle):
     cos_a = math.cos(angle)
     sin_a = math.sin(angle)
